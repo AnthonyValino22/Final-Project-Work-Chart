@@ -1,0 +1,29 @@
+Courses required for the degree:
+CEN 3721 – Human Computer Interaction (3 credits)
+CGS 3095 – Technology in the Global Arena–GL (3 credits)
+CGS 3767 – Computer Operating Systems (3 credits)
+CGS 4285 – Applied Computer Networking (3 credits)
+CIS 4365 – Enterprise Cybersecurity (3 credits)
+CNT 4182 – Mobile & IoT Security (3 credits)
+CNT 4403 – Computing & Network Security (3 credits)
+COP 3804 – Intermediate Java (3 credits)
+COP 4703 – Information Storage & Retrieval (3 credits)
+ENC 3249 – Professional and Technical Writing for Computing (3 credits) [taught by English Department]
+CIS 3950 – Capstone I
+CIS 4951 – Capstone II
+
+You can select three course from the list below:
+CGS 4854 – Web Site Construction and Management
+CIS 4431 – IT Automation
+CNT 4504 – Network Administration
+CNT 4513 – Data Communication
+CNT 4603 – System Admin and Maintenance
+COP 4005 – Windows Programming for IT
+COP 4655 – Mobile App. Development
+COP 4751 – Advanced Database Management
+COP 4813 – Web App. Programming
+COP 4814 – Component-Based Software Dev.
+CTS 4348 – UNIX Admin
+CTS 4743 – Enterprise IT Troubleshooting
+EEL 4802 – Introduction to Digital Forensics Engineering
+EEL 4804 – Introduction Malware Reverse Engineering

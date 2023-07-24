@@ -1,0 +1,27 @@
+Courses required for the degree:
+CEN 4010 – Software Engineering 1
+CGS 1920 – Introduction to the Computing Field
+CGS 3095 – Technology in the Global Arena
+CIS 3950 – Capstone 1
+CIS 4951 – Capstone 2
+COP 3337 – Computer Programming 2
+COP 3530 – Data Structures
+COP 4338 – Computer Programming 3
+COP 4610 – Operating Systems Principles
+CDA 3102 – Computer Architecture
+ENC 3249 – Professional and Technical Writing
+COT 3100 – Discrete Structures
+STA 3033 – Introduction to Probability and Statistics for CS
+
+You can select one course from the list below:
+CAP 4506 – Intro to Game Theory
+COP 4534 – Algorithm Techniques
+COP 4555 – Programming Languages
+COT 3510 – Applied Linear Structures
+COT 3541 – Logic for CS
+COT 4521 – Intro to Computational Geometry
+MAD 3301 – Graph Theory
+MAD 3401 – Numerical Analysis
+MAD 3512 – Theory of Algorithms
+MAD 4203 – Combinatorics
+MHF 4302 – Math Logic

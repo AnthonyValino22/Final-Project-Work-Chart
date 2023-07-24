@@ -1,0 +1,24 @@
+Courses required for the degree:
+CEN 3721 – Human Computer Interaction
+CGS 3767 – Computer Operating Systems
+CGS 4285 – Applied Computer Networking
+CGS 4854 – Web Site Construction and Management
+COP 3804 – Intermediate Java
+COP 4703 – Information Storage and Retrieval
+
+You can select two course from the list below:
+CIS 4365 – Enterprise Cybersecurity
+CIS 4431 – IT Automation
+CNT 4182 – Mobile & IoT Security
+CNT 4403 – Computer and Network Security
+CNT 4504 – Network Administration
+CNT 4513 – Data Communications
+CNT 4603 – Windows System Admin
+COP 4005 – Windows Programming for IT
+COP 4655 – Mobile Application Development
+COP 4813 – Web Application Programming
+COP 4814 – Component Based Development
+COP 4722 – DB Survey
+CTS 4348 – Unix Admin
+CTS 4408 – DB Admin
+CTS 4743 – Enterprise IT Troubleshooting

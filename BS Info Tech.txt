@@ -1,0 +1,19 @@
+Courses required for the degree:
+CEN 3721 – Human Computer Interaction
+COP 3337 – Programming II
+CGS 3767 – Computer Operating Systems
+CDA 3102 – Computer Architecture
+CGS 4285 – Applied Computer Networking
+CGS 4854 – Web Site Construction and Management
+CNT 4403 – Computing and Network Security
+COP 3530 – Data Structures
+COP 4703 – Information Storage and Retrieval
+COP 4338 – Systems Programming
+COP 4814 – Component-Based Software Dev.
+
+You can select two course from the list below:
+COP 4751 – Advanced DB Management
+CTS 4408 – DB Admin
+COP 4005 – Windows Programming for IT
+COP 4655 – Mobile App. Development
+COP 4813 – Web App. Programming

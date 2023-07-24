@@ -1,0 +1,24 @@
+Courses required for the degree:
+CDA 3102 Computer Architecture
+CEN 4010 Software Engineering 1
+COT 3100 Discrete Structures OR MAD2104 Discrete Mathematics
+CGS 3095 Technology in the Global Arena
+COP 2210 Computer Programming 1
+ENC 3249 Professional and Technical Writing for CS
+COP 3337 Computer Programming 2
+COP 3530 Data Structures
+COP 4338 Systems Programming
+COP 4610 Operating Systems Principles
+CGS 1920 Introduction to Computing 
+
+You can select one course from the list below:
+CAP 4052 Game Design & Development
+CAP 4104 Human-Computer Interaction
+CAP 4630 Artificial Intelligence
+CAP 4641 Natural Language Processing
+CAP 4770 Intro to Data Mining
+CAP 4830 Modeling and Simulations
+CEN 4021 Software Engineering 2
+CEN 4072 Software Testing
+COP 4226 Advanced Windows Programming
+COP 4655 Mobile App Development
